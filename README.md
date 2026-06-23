@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fred 👋</h1>
 
-<!--
-**fbertil/fbertil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science @ University of Florida 🐊 <br>
+  First-Generation Student • Software Engineer • Researcher
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a software developer passionate about building products, analyzing data, and solving real-world problems with technology.
+
+Currently interested in:
+
+- 💻 Software Engineering
+- 🤖 AI & Machine Learning
+- 📊 Data Analytics & Sports Analytics
+- 🌎 Environmental Data Science
+- 🎮 Game Development
+
+---
+
+## 🛠️ Current Projects
+
+### 🌡️ Urban Heat & Vegetation Research
+Research project analyzing how urban expansion in the Orlando area affected land surface temperature and vegetation loss between 2002 and 2023 using NASA Landsat satellite imagery.
+
+**Tech:** Python, GIS, Remote Sensing, Data Analysis
+
+---
+
+### 🏀 NBA Playoff Predictor
+Machine learning model that predicts NBA playoff games using advanced team metrics, historical performance, and matchup data.
+
+**Tech:** Python, Pandas, Scikit-Learn, XGBoost
+
+---
+
