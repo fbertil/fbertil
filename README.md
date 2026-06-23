@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fred 👋</h1>
 
 <p align="center">
-  Computer Science @ University of Florida 🐊 <br>
+  Computer Science + Philosophy @ University of Florida 🐊 <br>
   First-Generation Student • Software Engineer • Researcher
 </p>
 
