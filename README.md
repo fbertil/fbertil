@@ -37,3 +37,4 @@ Machine learning model that predicts NBA playoff games using advanced team metri
 
 ---
 
+![snake gif](https://github.com/fbertil/fbertil/blob/output/github-contribution-grid-snake-dark.svg)
